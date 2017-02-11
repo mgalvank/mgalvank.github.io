@@ -1,0 +1,25 @@
+
+
+.tsc_divider4 {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../css/images/tsc_divider4.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+.tsc_divider4_black {
+  height: 35px;
+  width: 600px;
+  margin:0px auto;
+  background: url(../css/images/tsc_divider4_black.png) no-repeat scroll center transparent;
+  padding:6px;
+}
+
+
+
+
+.tsc_hrline_silver { background-color: #ddd; margin-top:12px;margin-bottom:12px; height:1px; margin-left: auto;margin-right: auto;}
+.tsc_hrline_gray { background-color: #ccc; margin-top:12px;margin-bottom:12px; height:1px; margin-left: auto;margin-right: auto;}
+.tsc_hrline_black { background-color: #000; margin-top:12px;margin-bottom:12px; height:1px; margin-left: auto;margin-right: auto;}
+.tsc_hrline_red { background-color: #c00; margin-top:12px;margin-bottom:12px; height:1px; margin-left: auto;margin-right: auto;}
